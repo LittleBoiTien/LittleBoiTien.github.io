@@ -1,0 +1,183 @@
+
+/* GENERAL */
+header {
+	height: 120px;
+	background-image: url("../Img/banner2.jpg");
+	margin: -40px -10px 0 -10px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	padding-top: 30px;
+}
+
+/* NAVIGATION BAR */
+.navBar {
+	list-style-type: none;
+	text-align: center;
+	margin-top: -25px;
+	padding-left: 0;
+}
+
+.navBar li {
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 2.5px;
+	margin-right: 2.5px;
+}
+
+.navBar li a:link, .navBar li a:visited{
+	color: white;	
+	text-decoration: none;
+}
+
+.navBar li a:hover {
+	color: blue;
+}
+
+/* ABOUT ME PARAGPRAH */
+.about {
+	text-align: center;
+	
+
+}
+.about a:link, p a:visited {
+	color: black;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.about a:hover {
+	color: blue;
+}
+
+.about img {
+	width: 225px;
+	height: 300px;
+	
+}
+
+.about div {
+	margin: 0 480px 0 480px;
+	font-size: 1.17em;
+}
+
+.about p {
+	text-align: justify;
+}
+
+
+/* EXPERIENCES */
+.experience {
+	background-color: #E8E8E8;
+	text-align: center;
+	margin: 50px -10px 	50px -10px;	
+	padding-bottom: 225px;
+}
+
+.experienceLayout {
+	margin: 0 400px 0 400px;
+}
+
+.experienceLayout div {
+	margin: 5px;
+	width: 300px;
+	float: left;
+	text-align: center;
+}
+
+.experienceLayout div ul {
+	text-align: left;
+	font-size: 1.17em;
+}
+/*.expList {
+	text-align: center;
+	margin: 5px;
+}
+.expList ul {
+	text-align: left;
+}*/
+
+.experience img {
+	width: 213px;
+	height: 45px;
+}
+
+.experience h3 {
+	padding-top: 18.72px;
+}
+
+/* PROJECTS PAGE */
+.projectSection{
+	text-align: center;
+	margin: 0 -10px 0 -10px	;
+}
+
+.projectSection .projectsTitle{
+	margin-bottom: 68.72px;
+}
+
+/* INDIVIDUAL PROJECTS */
+.projectsLayout {
+	text-align: left;
+	/*background-color: #E8E8E8;*/
+	padding: .5px 30px 220px 30px;
+	margin-top: -50px;
+	margin-bottom: 50px;
+	/*border: 1px solid black;*/
+}
+
+
+
+.projectsLayout img {
+	width: 350px;
+	height: 250px;
+	float: left;
+	margin-right: 20px;
+/*	border: 1px solid black;*/
+}
+
+.projectsLayout div p {
+	font-size: 1.17em;
+/*	border: 1px solid black;*/
+	/*float: left;*/
+}
+
+/* CONTACTS PAGE */
+.contactsLayout {
+	margin-bottom: 50px;
+	margin-right: 15px;
+	/*border: 1px solid black;*/
+}
+
+.contactsLayout h3{
+	text-align: center;
+}
+
+.contactsLayout p{
+	font-size: 1.17em;
+	padding: 0px 20px 0px 20px;
+}
+
+.contactsLayout ul {
+		/*border: 1px solid black;*/
+		list-style: none;
+		font-size: 1.17em;
+		padding-top: 20px;
+}
+
+.contacts img{
+	height: 16px;
+	width: 16px;
+	float: left;
+	margin-right: 10px;
+}
+/* FOOTER */
+footer {
+	clear: left;
+	/*padding-top: 50px;*/
+}
+
