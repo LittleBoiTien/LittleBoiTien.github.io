@@ -1,1 +1,1 @@
-# LittleBoiTien.github.io
+This is my first my first website. It served as my portfolio page when I began to learn HTML and CSS. Through making this website, I realized that I enjoyed web development and gained many experiences. After finishing this website, I wanted to make my website look better and responsive, leading to my current website now.
